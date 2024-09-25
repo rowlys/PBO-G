@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=calculator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ calculator\ here.\r\n\r\n\ @Basten\ Andika\ Salim\ -\ 5025231132\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=actualDisplay
+comment1.target=calculator(display)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ calculator\r\n
+comment2.params=input1\ input2
+comment2.target=void\ addition(double,\ double)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=input1\ input2
+comment3.target=void\ substraction(double,\ double)
+comment4.params=input1\ input2
+comment4.target=void\ multiplication(double,\ double)
+comment5.params=input1\ input2
+comment5.target=void\ division(double,\ double)
+numComments=6
