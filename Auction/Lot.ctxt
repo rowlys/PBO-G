@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lot
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lot\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=id\ name
+comment1.target=Lot(int,\ java.lang.String)
+comment2.params=bid
+comment2.target=boolean\ newBid(Bid)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

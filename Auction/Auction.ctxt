@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Auction
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Auction\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Auction()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Auction\r\n
+comment2.params=name
+comment2.target=void\ newLot(java.lang.String)
+comment3.params=
+comment3.target=void\ showLots()
+comment4.params=lotID\ bidder\ theBid
+comment4.target=void\ makeBid(int,\ Person,\ int)
+comment5.params=lotID
+comment5.target=Lot\ getLot(int)
+numComments=6
