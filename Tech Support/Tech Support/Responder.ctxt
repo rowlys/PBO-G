@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Responder
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Responder\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Responder()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Responder\r\n
+comment2.params=input
+comment2.target=java.lang.String\ generateResponse(java.lang.String)
+comment3.params=
+comment3.target=void\ answers()
+comment4.params=
+comment4.target=void\ keywordlist()
+numComments=5
