@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FoodOrder
+comment0.text=\r\n\r\n\ @author\ Basten\ Andika\ Salim\r\n\ \r\n
+comment1.params=
+comment1.target=FoodOrder()
+comment2.params=
+comment2.target=void\ state()
+comment3.params=
+comment3.target=void\ newOrder()
+comment4.params=
+comment4.target=void\ printAllOrder()
+numComments=5
