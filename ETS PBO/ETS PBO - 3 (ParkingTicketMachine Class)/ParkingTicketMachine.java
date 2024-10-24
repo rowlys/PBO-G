@@ -37,6 +37,7 @@ public class ParkingTicketMachine
         
         int temp = balance / ticketPrice;
         
+        balance -= temp * ticketPrice;
         ticketTime += temp;
         
         System.out.println("You have funds for " + temp + " hours of parking.");
