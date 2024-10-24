@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ ETS\ PBO\ G\ -\ Nomor\ 2\r\n\r\n\ @author\ Basten\ Andika\ Salim\ -\ 5025231132\r\n\r\n
+comment1.params=judul\ penulis\ nama_penerbit\ kategori_buku\ tahun_terbit
+comment1.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ printDetails()
+numComments=3
