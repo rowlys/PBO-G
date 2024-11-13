@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Renter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Renter\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ vehicle
+comment1.target=Renter(java.lang.String,\ Vehicle)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=Vehicle\ getVehicle()
+comment4.params=
+comment4.target=void\ returnVehicle()
+comment5.params=
+comment5.target=boolean\ isRenting()
+numComments=6
