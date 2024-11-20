@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Economy
+comment1.params=fare\ baggage\ destination
+comment1.target=Economy(double,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=double\ calculateFare()
+comment3.params=
+comment3.target=void\ displayInfo()
+numComments=4
