@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CurrencyConverter
+comment1.params=
+comment1.target=CurrencyConverter()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ initializeCurrencies()
+comment3.params=
+comment3.target=void\ createGUI()
+comment4.params=
+comment4.target=void\ convertCurrency()
+comment5.params=
+comment5.target=void\ crashCurrency()
+comment6.params=
+comment6.target=void\ startFluctuationTimer()
+comment7.params=
+comment7.target=void\ run()
+comment8.params=
+comment8.target=void\ fluctuateRates()
+comment9.params=
+comment9.target=void\ updateRatesDisplay()
+numComments=11
